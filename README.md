@@ -45,82 +45,88 @@ cd pxz-compressor
 cargo build --release
 ./target/release/pxz info
 
-<!-- SECCIÓN BILINGÜE PARA DONACIONES BINANCE - README GITHUB -->
-<!-- COPY/PASTE ESTE BLOQUE COMPLETO EN TU README.md (vista HTML) o si es .html puro funciona igual -->
-
+<!-- SECCIÓN DE DONACIONES BINANCE -->
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" colspan="2" bgcolor="#0b1426" style="padding: 20px; border-radius: 32px 32px 0 0;">
-        <h2 style="color: #F0B90B; margin: 0;">✨ Support / Apoya ✨</h2>
-        <p style="color: #a0b3d9; margin: 5px 0 0;">Binance donation — powered by gratitude</p>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" style="padding: 20px; background: #f8fafd;">
-        <!-- Mensaje agradecido -->
-        <div style="background: #FEFCE8; border-left: 6px solid #F0B90B; padding: 12px 18px; border-radius: 20px; margin-bottom: 24px;">
-          <p style="margin: 5px 0; font-size: 15px;">
-            🙏 <strong>Gracias por tu generosidad</strong> · 🤝 <strong>Thank you for your kindness</strong><br>
-            💛 Cada aporte impulsa el proyecto · 🚀 Every contribution fuels the mission
-          </p>
+
+|     |     |
+|-----|-----|
+| <div align="center"><h2>✨ Support / Apoya ✨</h2><p><sub>Binance donation — powered by gratitude</sub></p></div> | |
+
+<br>
+
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <div align="center">
+        <p>🙏 <strong>Gracias por tu generosidad</strong> · 🤝 <strong>Thank you for your kindness</strong><br>
+        💛 Cada aporte impulsa el proyecto · 🚀 Every contribution fuels the mission</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <div>
+        <div>🆔 <strong>Binance UID</strong></div>
+        <div><code><b>1208211865</b></code></div>
+        <div><sub>ID único · transferencias directas</sub></div>
+      </div>
+    </td>
+    <td width="50%" align="center">
+      <div>
+        <div>📧 <strong>Email (Binance Pay)</strong></div>
+        <div><code><b>dwighttrujillo@gmail.com</b></code></div>
+        <div><sub>asociado a cuenta Binance</sub></div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <div>
+        <div>🪙 <strong>Criptomonedas aceptadas · Accepted Cryptocurrencies</strong></div>
+        <br>
+        <div>
+          <span>💎 USDT (BEP20/TRC20/ERC20)</span>&nbsp;&nbsp;|&nbsp;&nbsp;
+          <span>₿ BTC</span>&nbsp;&nbsp;|&nbsp;&nbsp;
+          <span>🔶 BNB</span>&nbsp;&nbsp;|&nbsp;&nbsp;
+          <span>⬟ ETH (ERC20)</span>
         </div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <table width="100%">
+        <tr>
+          <td>🟡 <strong>USDT</strong></td>
+          <td>TRC20 · BEP20 · ERC20</td>
+          <td align="right">✓ rápido</td>
+        </tr>
+        <tr>
+          <td>₿ <strong>BTC</strong></td>
+          <td>Bitcoin network</td>
+          <td align="right">✓ seguro</td>
+        </tr>
+        <tr>
+          <td>🔶 <strong>BNB</strong></td>
+          <td>BSC (BEP-20)</td>
+          <td align="right">✓ económico</td>
+        </tr>
+        <tr>
+          <td>⬟ <strong>ETH</strong></td>
+          <td>ERC20</td>
+          <td align="right">✓ versátil</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br>
+      <sub>📌 Transferencias internas por UID o email · 🔒 Verifica la red antes de enviar · 💙 Gracias por apoyar</sub>
+      <br><br>
+      <sub>⚡ Binance donations — sin enlaces externos, solo confianza y transparencia</sub>
+    </td>
+  </tr>
+</table>
 
-        <!-- UID + EMAIL -->
-        <table width="100%" cellpadding="0" cellspacing="0" style="margin-bottom: 24px;">
-          <tr>
-            <td width="50%" style="padding: 8px; vertical-align: top;">
-              <div style="background: #ffffff; border-radius: 24px; padding: 12px 16px; border: 1px solid #e6edf4;">
-                <div style="font-size: 12px; text-transform: uppercase; color: #5b6e8c;">🆔 Binance UID</div>
-                <div style="font-size: 22px; font-weight: bold; font-family: monospace; color: #0b1426;">1208211865</div>
-                <div style="font-size: 11px; color: #7a8aa8;">ID único · transferencias directas</div>
-              </div>
-            </td>
-            <td width="50%" style="padding: 8px; vertical-align: top;">
-              <div style="background: #ffffff; border-radius: 24px; padding: 12px 16px; border: 1px solid #e6edf4;">
-                <div style="font-size: 12px; text-transform: uppercase; color: #5b6e8c;">📧 Email (Binance Pay)</div>
-                <div style="font-size: 16px; font-weight: 600; font-family: monospace; color: #0b1426; word-break: break-all;">dwighttrujillo@gmail.com</div>
-                <div style="font-size: 11px; color: #7a8aa8;">asociado a cuenta Binance</div>
-              </div>
-            </td>
-          </tr>
-        </table>
-
-        <!-- Criptomonedas aceptadas con badges -->
-        <div style="margin-top: 8px; margin-bottom: 16px;">
-          <div style="font-size: 14px; font-weight: bold; color: #1f2a48; margin-bottom: 12px;">🪙 Criptomonedas aceptadas · Accepted Cryptocurrencies</div>
-          <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
-            <span style="background: #ffffff; border-radius: 40px; padding: 6px 16px; border: 1px solid #e2e8f0; font-weight: 600;">💎 USDT (BEP20/TRC20/ERC20)</span>
-            <span style="background: #ffffff; border-radius: 40px; padding: 6px 16px; border: 1px solid #e2e8f0; font-weight: 600;">₿ BTC</span>
-            <span style="background: #ffffff; border-radius: 40px; padding: 6px 16px; border: 1px solid #e2e8f0; font-weight: 600;">🔶 BNB</span>
-            <span style="background: #ffffff; border-radius: 40px; padding: 6px 16px; border: 1px solid #e2e8f0; font-weight: 600;">⬟ ETH (ERC20)</span>
-          </div>
-        </div>
-
-        <!-- Tabla sutil de redes -->
-        <table width="100%" style="background: #ffffff; border-radius: 24px; border-collapse: collapse; margin-top: 20px; font-size: 13px;">
-          <tbody>
-            <tr><td style="padding: 10px 14px; border-bottom: 1px solid #edf2f7;">🟡 <strong>USDT</strong></td><td style="padding: 10px 14px; border-bottom: 1px solid #edf2f7;">TRC20 · BEP20 · ERC20</td><td style="padding: 10px 14px; text-align: right;">✓ rápido</td></tr>
-            <tr><td style="padding: 10px 14px; border-bottom: 1px solid #edf2f7;">₿ <strong>BTC</strong></td><td style="padding: 10px 14px; border-bottom: 1px solid #edf2f7;">Bitcoin network</td><td style="padding: 10px 14px; text-align: right;">✓ seguro</td></tr>
-            <tr><td style="padding: 10px 14px; border-bottom: 1px solid #edf2f7;">🔶 <strong>BNB</strong></td><td style="padding: 10px 14px; border-bottom: 1px solid #edf2f7;">BSC (BEP-20)</td><td style="padding: 10px 14px; text-align: right;">✓ económico</td></tr>
-            <tr><td style="padding: 10px 14px;">⬟ <strong>ETH</strong></td><td style="padding: 10px 14px;">ERC20</td><td style="padding: 10px 14px; text-align: right;">✓ versátil</td></tr>
-          </tbody>
-        </table>
-
-        <!-- Nota final agradecimiento sin enlaces -->
-        <div style="margin-top: 28px; padding-top: 16px; border-top: 1px solid #e2edf7; text-align: center; font-size: 12px; color: #6c7e9e;">
-          <span>📌 Transferencias internas por UID o email</span>&nbsp;&nbsp;|&nbsp;&nbsp;
-          <span>🔒 Verifica la red antes de enviar</span>&nbsp;&nbsp;|&nbsp;&nbsp;
-          <span>💙 Gracias por apoyar · Thanks for supporting</span>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" bgcolor="#fafcff" style="padding: 12px; text-align: center; font-size: 11px; color: #8da0bc; border-radius: 0 0 32px 32px;">
-        ⚡ Binance donations — sin enlaces externos, solo confianza y transparencia
-      </td>
-    </tr>
-  </table>
 </div>
-</body>
-</html>
