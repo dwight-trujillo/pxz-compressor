@@ -61,6 +61,28 @@
 
 </details>
 
+<!-- ENGLISH --><details> <summary><b>🇬🇧 English</b></summary>
+💛 Support the project (Venezuela)
+<div align="center">
+https://img.shields.io/badge/%F0%9F%92%9B%2520Donate%2520via-Binance%2520Pay-FCD535?style=for-the-badge&logo=binance&logoColor=black
+
+Data	Value
+Binance UID	1208211865
+Contact email	dwighttrujillo@gmail.com
+</div><details> <summary><b>📋 Donation instructions</b></summary>
+Open the Binance app
+
+Go to "Pay" → "Donate"
+
+Enter UID: 1208211865
+
+Select USDT, BTC, BNB or ETH
+
+Confirm the donation
+
+</details>
+
+
 ## 🏆 Benchmark
 
 | Métrica | PXZ | 7-Zip | WinRAR |
