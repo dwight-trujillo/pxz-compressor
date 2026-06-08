@@ -1,0 +1,12 @@
+﻿[package]
+name = "pxz-compressor"
+version = "1.0.0"
+edition = "2024"
+
+[dependencies]
+tokio = { version = "1.38", features = ["full"] }
+zstd = "0.13"
+
+[[bin]]
+name = "pxz-compressor"
+path = "src/main.rs"
