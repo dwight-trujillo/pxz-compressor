@@ -3,12 +3,33 @@ name = "pxz-compressor"
 version = "1.0.0"
 edition = "2024"
 
-[dependencies]
-tokio = { version = "1.38", features = ["full"] }
-zstd = "0.13"
+[lib]
+name = "pxz_compressor"
+path = "src/lib.rs"
 
 [[bin]]
-name = "pxz-compressor"
+name = "pxz"
 path = "src/main.rs"
 
+[dependencies]
 clap = { version = "4.5", features = ["derive"] }
+tokio = { version = "1.38", features = ["full"] }
+zstd = "0.13"
+lzma-rs = "0.3"
+rayon = "1.10"
+num_cpus = "1.16"
+thiserror = "1.0"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+tracing = "0.1"
+tracing-subscriber = "0.3"
+chrono = "0.4"
+regex = "1.10"
+
+[dev-dependencies]
+proptest = "1.6"
+tempfile = "3.0"
+
+[profile.release]
+opt-level = 3
+lto = true
