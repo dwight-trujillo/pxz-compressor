@@ -21,8 +21,6 @@
 
 ![Visits](https://komarev.com/ghpvc/?username=dwight-trujillo&style=for-the-badge&color=brightgreen&label=Visitors)
 
-</div>
-
 ---
 
 ### 🌐 Conecta conmigo | Connect with me
