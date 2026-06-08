@@ -48,33 +48,37 @@ cargo build --release
 
 ---
 
-## ✨ Support / Apoya ✨
+<div align="center">
 
-*Binance donation — powered by gratitude*
+### ✨ Support / Apoya ✨
+
+<sub>*Binance donation — powered by gratitude*</sub>
+
+<br>
 
 🙏 **Gracias por tu generosidad** · 🤝 **Thank you for your kindness**  
-💛 Cada aporte impulsa el proyecto · 🚀 Every contribution fuels the mission
+💛 Cada aporte impulsa el proyecto · 🚀 *Every contribution fuels the mission*
 
-| | |
-|---|---|
-| 🆔 **Binance UID** | 📧 **Email (Binance Pay)** |
+<br>
+
+| 🆔 Binance UID | 📧 Email (Binance Pay) |
+|:---:|:---:|
 | `1208211865` | `dwighttrujillo@gmail.com` |
-| *ID único · transferencias directas* | *asociado a cuenta Binance* |
+| <sub>ID único · transferencias directas</sub> | <sub>asociado a cuenta Binance</sub> |
+
+<br>
 
 **🪙 Criptomonedas aceptadas**
 
-`💎 USDT` • `₿ BTC` • `🔶 BNB` • `⬟ ETH`
+| 💎 USDT | ₿ BTC | 🔶 BNB | ⬟ ETH |
+|:---:|:---:|:---:|:---:|
+| BEP20/TRC20/ERC20 | Bitcoin | BSC (BEP-20) | ERC20 |
 
-| Moneda | Red |
-|---|---|
-| USDT | BEP20 / TRC20 / ERC20 |
-| BTC | Bitcoin network |
-| BNB | BSC (BEP-20) |
-| ETH | ERC20 |
+<br>
 
-📌 Transferencias internas por UID o email · 🔒 Verifica la red antes de enviar · 💙 Gracias por apoyar
+<sub>📌 Transferencias internas por UID o email · 🔒 Verifica la red antes de enviar</sub><br>
+<sub>💙 Gracias por apoyar · Thanks for supporting</sub>
 
-⚡ Binance donations — sin enlaces externos, solo confianza y transparencia
+</div>
 
 ---
-<p align="center"> <sub>📌 Transferencias internas por UID o email · 🔒 Verifica la red antes de enviar · 💙 Gracias por apoyar</sub><br> <sub>⚡ Binance donations — sin enlaces externos, solo confianza y transparencia</sub> </p>
