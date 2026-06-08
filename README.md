@@ -8,7 +8,7 @@
 | Velocidad | 0.8s | 1.5s | 1.3s |
 
 ## Instalación
-\\\ash
+\\\Bash
 cargo build --release
 \\\
 
