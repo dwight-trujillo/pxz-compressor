@@ -44,3 +44,16 @@ git clone https://github.com/dwight-trujillo/pxz-compressor.git
 cd pxz-compressor
 cargo build --release
 ./target/release/pxz info
+
+💛 Support the project
+Binance UID: 1208211865
+
+Email: dwighttrujillo@gmail.com
+
+Cryptocurrencies: USDT, BTC, BNB, ETH
+
+<div align="center">
+⭐ Star this project ⭐
+Made with 🦀 Rust
+
+</div> ```
