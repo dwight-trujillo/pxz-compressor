@@ -44,6 +44,7 @@ git clone https://github.com/dwight-trujillo/pxz-compressor.git
 cd pxz-compressor
 cargo build --release
 ./target/release/pxz info
+```
 ✨ Support / Apoya ✨
 Binance donation — powered by gratitude
 
