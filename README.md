@@ -45,8 +45,7 @@ cd C:\Users\User\Desktop\pxz-compressor
 ### 📱 Conecta conmigo
 
 [![GitHub Follow](https://img.shields.io/github/followers/dwight-trujillo?style=for-the-badge&logo=github&label=Follow%20me)](https://github.com/dwight-trujillo)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/tu_usuario)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tu_usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dwighttrujillo)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:dwighttrujillo@gmail.com)
 
 </div>
