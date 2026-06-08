@@ -45,21 +45,36 @@ cd pxz-compressor
 cargo build --release
 ./target/release/pxz info
 ```
-✨ Support / Apoya ✨
-Binance donation — powered by gratitude
 
-<p align="center"> 🙏 <strong>Gracias por tu generosidad</strong> · 🤝 <strong>Thank you for your kindness</strong><br> 💛 Cada aporte impulsa el proyecto · 🚀 Every contribution fuels the mission </p>
-🆔 Binance UID	📧 Email (Binance Pay)
-1208211865	dwighttrujillo@gmail.com
-ID único · transferencias directas	asociado a cuenta Binance
+---
 
-🪙 Criptomonedas aceptadas · Accepted Cryptocurrencies
+## ✨ Support / Apoya ✨
 
-<p align="center"> <code>💎 USDT (BEP20/TRC20/ERC20)</code>   |   <code>₿ BTC</code>   |   <code>🔶 BNB</code>   |   <code>⬟ ETH (ERC20)</code> </p>
-Moneda	Redes	Velocidad
-🟡 USDT	TRC20 · BEP20 · ERC20	✓ rápido
-₿ BTC	Bitcoin network	✓ seguro
-🔶 BNB	BSC (BEP-20)	✓ económico
-⬟ ETH	ERC20	✓ versátil
+*Binance donation — powered by gratitude*
 
+🙏 **Gracias por tu generosidad** · 🤝 **Thank you for your kindness**  
+💛 Cada aporte impulsa el proyecto · 🚀 Every contribution fuels the mission
+
+| | |
+|---|---|
+| 🆔 **Binance UID** | 📧 **Email (Binance Pay)** |
+| `1208211865` | `dwighttrujillo@gmail.com` |
+| *ID único · transferencias directas* | *asociado a cuenta Binance* |
+
+**🪙 Criptomonedas aceptadas**
+
+`💎 USDT` • `₿ BTC` • `🔶 BNB` • `⬟ ETH`
+
+| Moneda | Red |
+|---|---|
+| USDT | BEP20 / TRC20 / ERC20 |
+| BTC | Bitcoin network |
+| BNB | BSC (BEP-20) |
+| ETH | ERC20 |
+
+📌 Transferencias internas por UID o email · 🔒 Verifica la red antes de enviar · 💙 Gracias por apoyar
+
+⚡ Binance donations — sin enlaces externos, solo confianza y transparencia
+
+---
 <p align="center"> <sub>📌 Transferencias internas por UID o email · 🔒 Verifica la red antes de enviar · 💙 Gracias por apoyar</sub><br> <sub>⚡ Binance donations — sin enlaces externos, solo confianza y transparencia</sub> </p>
