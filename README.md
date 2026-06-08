@@ -1,7 +1,3 @@
-cd C:\Users\User\Desktop\pxz-compressor
-
-# README COMPLETO CON CONTADOR DE VISITAS
-@'
 <div align="center">
 
 # 📦 PXZ Compressor v1.0.0
