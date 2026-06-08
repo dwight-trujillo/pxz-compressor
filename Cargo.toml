@@ -10,3 +10,5 @@ zstd = "0.13"
 [[bin]]
 name = "pxz-compressor"
 path = "src/main.rs"
+
+clap = { version = "4.5", features = ["derive"] }
